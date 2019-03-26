@@ -140,3 +140,52 @@
 1551043002 d:\agropark\dropbox\bicicleteria\include\configuracion.h
 	<iomanip>
 
+1553614778 source:d:\workspace\bicicleteria\main.cpp
+	<iostream>
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<iomanip>
+	<Validar.h>
+	<Fecha.h>
+	<Persona.h>
+	<Producto.h>
+	<Proveedor.h>
+	<Cliente.h>
+	<Compras.h>
+	<C_Compras.h>
+	<Ventas.h>
+	<C_Ventas.h>
+	<reportes.h>
+	<configuracion.h>
+
+1553614778 d:\workspace\bicicleteria\include\validar.h
+
+1553614778 d:\workspace\bicicleteria\include\fecha.h
+	<iostream>
+	<string.h>
+	<ctime>
+
+1553614778 d:\workspace\bicicleteria\include\persona.h
+
+1553614778 d:\workspace\bicicleteria\include\producto.h
+
+1553614778 d:\workspace\bicicleteria\include\proveedor.h
+
+1553614778 d:\workspace\bicicleteria\include\cliente.h
+
+1553614778 d:\workspace\bicicleteria\include\compras.h
+
+1553614778 d:\workspace\bicicleteria\include\c_compras.h
+
+1553614778 d:\workspace\bicicleteria\include\ventas.h
+
+1553614778 d:\workspace\bicicleteria\include\c_ventas.h
+
+1553614778 d:\workspace\bicicleteria\include\reportes.h
+
+1553614778 d:\workspace\bicicleteria\include\configuracion.h
+	<iomanip>
+
