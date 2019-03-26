@@ -1,0 +1,142 @@
+# depslib dependency file v1.0
+1549396291 source:c:\bicicleteria\main.cpp
+	<iostream>
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<iomanip>
+	<Validar.h>
+	<Fecha.h>
+	<Persona.h>
+	<Producto.h>
+	<Proveedor.h>
+	<Cliente.h>
+	<Ventas.h>
+	<C_Ventas.h>
+	<reportes.h>
+	<configuracion.h>
+
+1549226706 c:\bicicleteria\include\validar.h
+
+1544034508 c:\bicicleteria\include\fecha.h
+	<iostream>
+	<string.h>
+	<ctime>
+
+1548550062 c:\bicicleteria\include\persona.h
+
+1549392624 c:\bicicleteria\include\producto.h
+
+1549393952 c:\bicicleteria\include\proveedor.h
+
+1548550062 c:\bicicleteria\include\cliente.h
+
+1545224786 c:\bicicleteria\include\ventas.h
+
+1545351530 c:\bicicleteria\include\c_ventas.h
+
+1545355076 c:\bicicleteria\include\reportes.h
+
+1549232596 c:\bicicleteria\include\configuracion.h
+	<iomanip>
+
+1551023535 source:u:\dropbox\bicicleteria\main.cpp
+	<iostream>
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<iomanip>
+	<Validar.h>
+	<Fecha.h>
+	<Persona.h>
+	<Producto.h>
+	<Proveedor.h>
+	<Cliente.h>
+	<Compras.h>
+	<C_Compras.h>
+	<Ventas.h>
+	<C_Ventas.h>
+	<reportes.h>
+	<configuracion.h>
+
+1550106644 u:\dropbox\bicicleteria\include\validar.h
+
+1549651090 u:\dropbox\bicicleteria\include\fecha.h
+	<iostream>
+	<string.h>
+	<ctime>
+
+1548550062 u:\dropbox\bicicleteria\include\persona.h
+
+1551310470 u:\dropbox\bicicleteria\include\producto.h
+
+1550092826 u:\dropbox\bicicleteria\include\proveedor.h
+
+1551045295 u:\dropbox\bicicleteria\include\cliente.h
+
+1550098802 u:\dropbox\bicicleteria\include\ventas.h
+
+1550116379 u:\dropbox\bicicleteria\include\c_ventas.h
+
+1551310736 u:\dropbox\bicicleteria\include\reportes.h
+
+1551043002 u:\dropbox\bicicleteria\include\configuracion.h
+	<iomanip>
+
+1549739911 u:\dropbox\bicicleteria\include\compras.h
+
+1550178336 u:\dropbox\bicicleteria\include\c_compras.h
+
+1551023535 source:d:\agropark\dropbox\bicicleteria\main.cpp
+	<iostream>
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<iomanip>
+	<Validar.h>
+	<Fecha.h>
+	<Persona.h>
+	<Producto.h>
+	<Proveedor.h>
+	<Cliente.h>
+	<Compras.h>
+	<C_Compras.h>
+	<Ventas.h>
+	<C_Ventas.h>
+	<reportes.h>
+	<configuracion.h>
+
+1550106644 d:\agropark\dropbox\bicicleteria\include\validar.h
+
+1549651090 d:\agropark\dropbox\bicicleteria\include\fecha.h
+	<iostream>
+	<string.h>
+	<ctime>
+
+1548550062 d:\agropark\dropbox\bicicleteria\include\persona.h
+
+1551310470 d:\agropark\dropbox\bicicleteria\include\producto.h
+
+1550092826 d:\agropark\dropbox\bicicleteria\include\proveedor.h
+
+1551045295 d:\agropark\dropbox\bicicleteria\include\cliente.h
+
+1549739911 d:\agropark\dropbox\bicicleteria\include\compras.h
+
+1550178336 d:\agropark\dropbox\bicicleteria\include\c_compras.h
+
+1550098802 d:\agropark\dropbox\bicicleteria\include\ventas.h
+
+1550116379 d:\agropark\dropbox\bicicleteria\include\c_ventas.h
+
+1551310736 d:\agropark\dropbox\bicicleteria\include\reportes.h
+
+1551043002 d:\agropark\dropbox\bicicleteria\include\configuracion.h
+	<iomanip>
+
